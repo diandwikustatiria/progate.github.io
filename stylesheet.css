@@ -1,0 +1,45 @@
+body {
+    font-family: "Courier New";
+}
+  
+li {
+    list-style: none;
+}
+  
+.header {
+    background-color:#1B1464;
+    color:white;
+    height: 90px;
+}
+
+.header-logo {
+    float: left;
+    font-size: 40px;
+    padding: 20px 40px;
+}
+  
+.header-list li {
+    float: left;
+    padding: 33px 20px;
+}
+
+.main {
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.copy-container h1 {
+    font-size: 100px;
+}
+
+.copy-container p {
+    font-size: 20px;
+}
+
+.copy-container span {
+    color:#1B1464;
+}
+
+.contents h2 {
+    margin-top:
+}
